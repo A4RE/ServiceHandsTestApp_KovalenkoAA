@@ -11,7 +11,7 @@ import SwiftUI
 struct ServiceHandsTestApp_KovalenkoAAApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
